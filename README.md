@@ -3,7 +3,7 @@
 [![Total Downloads](https://poser.pugx.org/immrdimm/docketwiki/d/total.svg)](https://packagist.org/packages/immrdimm/docketwiki)
 [![License](https://poser.pugx.org/immrdimm/docketwiki/license.svg)](https://packagist.org/packages/immrdimm/docketwiki)
 
-<p align="center"><img alt="Parsedown" src="https://imgur.com/a/uSECgaf" width="640" /></p>
+<p align="center"><img alt="DocketWiki" src="https://i.imgur.com/LRYaeCQ.jpeg" width="640" /></p>
 
 See demo here [DocketWiki](docketwiki.immrdimm.ru)
 

@@ -1,8 +1,8 @@
 {
     "name": "immrdimm/docketwiki",
     "description": "Simple and fast wiki and knowledge base",
-    "keywords": ["wiki","knowledge"],
-    "version": "0.0.1",
+    "keywords": ["wiki", "knowledge", "parser", "markdown"],
+    "homepage": "http://docketwiki.immrdimm.ru",
     "license": "MIT",
     "authors": [
         {
@@ -13,6 +13,10 @@
         }
     ],
     "require": {
-        "php": ">=7.3.0"
+        "php": ">=7.3.0",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8.35"
     }
 }

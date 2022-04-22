@@ -5,7 +5,7 @@
 
 <p align="center"><img alt="DocketWiki" src="https://i.imgur.com/LRYaeCQ.jpeg" width="640" /></p>
 
-See demo here [DocketWiki](docketwiki.immrdimm.ru)
+See demo here [DocketWiki](http://docketwiki.immrdimm.ru)
 
 - [About](#about)
 - [How To](#how-to)

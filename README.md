@@ -1,5 +1,8 @@
 # DocketWiki
 
+[![Total Downloads](https://poser.pugx.org/immrdimm/docketwiki/d/total.svg)](https://packagist.org/packages/immrdimm/docketwiki)
+[![License](https://poser.pugx.org/immrdimm/docketwiki/license.svg)](https://packagist.org/packages/immrdimm/docketwiki)
+
 - [About](#about)
 - [How To](#how-to)
   - [Getting Started](#getting-started)
@@ -42,6 +45,7 @@ Download archive, upload and unzip on your server. That's all
 
 Based on [ParseDown](https://github.com/erusev/parsedown) and [ParseDown Extra](https://github.com/erusev/parsedown-extra) by [Emanuil Rusev](https://github.com/erusev)
 
+Full support of HTML tags and markdown
 
 
 ## How To

@@ -2,6 +2,7 @@
     "name": "immrdimm/docketwiki",
     "description": "Simple and fast wiki and knowledge base",
     "keywords": ["wiki","knowledge"],
+    "version": "0.0.1",
     "license": "MIT",
     "authors": [
         {

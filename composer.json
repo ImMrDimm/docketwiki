@@ -1,0 +1,17 @@
+{
+    "name": "immrdimm/docketwiki",
+    "description": "Simple and fast wiki and knowledge base",
+    "keywords": ["wiki","knowledge"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Lomov",
+            "email": "lomov.dima@gmail.com",
+            "homepage": "https://github.com/ImMrDimm",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    }
+}

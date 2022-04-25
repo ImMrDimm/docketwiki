@@ -13,7 +13,7 @@ $config = new DocketConfigLoader;
 $config->loadConfig("config.json");
 
 $router = new DocketRoute();
-$parts = $router->loadRoute($_SERVER[REQUEST_URI], $config->configData->wiki_root_url);
+$parts = $router->loadRoute($_SERVER['REQUEST_URI'], $config->configData->wiki_root_url);
 
 $loadedUrl = '';
 $current_page_name = '';

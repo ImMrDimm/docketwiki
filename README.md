@@ -1,5 +1,6 @@
 # DocketWiki
 
+[![Version](http://poser.pugx.org/immrdimm/docketwiki/version)](https://packagist.org/packages/immrdimm/docketwiki)
 [![Total Downloads](https://poser.pugx.org/immrdimm/docketwiki/d/total.svg)](https://packagist.org/packages/immrdimm/docketwiki)
 [![License](https://poser.pugx.org/immrdimm/docketwiki/license.svg)](https://packagist.org/packages/immrdimm/docketwiki)
 
